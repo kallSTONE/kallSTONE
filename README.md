@@ -70,6 +70,13 @@ A business profile and internal productivity platform designed to support workfl
 
 🔗 [Visit the FEA Platform](https://foreign-employment-agency.vercel.app/)
 
+### Simply AI - AI tool repository and Productivity tool
+
+Modern AI tool sharing application with article and toolkit creation and sharing features.
+
+🔗 [Visit the FEA Platform](https://simply-ai-orcin.vercel.app/)
+
+
 #### 🏘️ Property Rental & Sales Platform
 A multi-role property platform developed during my software development internship.
 
