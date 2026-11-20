@@ -100,20 +100,26 @@ Building practical web applications, automation tools, dashboards, and user-focu
 ### 📊 GitHub Stats
 <div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=kallSTONE&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kallSTONE&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-<img src="https://streak-stats.demolab.com?user=kallSTONE&theme=tokyonight&hide_border=true" alt="GitHub streak"/></div>🏆 GitHub Trophies
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=kallSTONE&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies"/></div>🐍 Contribution Snake
-This animation requires the GitHub Actions workflow described below. Until that workflow is set up, the image may not display.
+<img src="https://streak-stats.demolab.com?user=kallSTONE&theme=tokyonight&hide_border=true" alt="GitHub streak"/></div>
 
+🏆 GitHub Trophies
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=kallSTONE&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies"/></div>
+
+🤝 Connect With Me
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kallSTONE/kallSTONE/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="100%"/>
-</div>🤝 Connect With Me
-<div align="center"><a href="https://kalab-tadesse.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="mailto:kalupt9999@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://github.com/kallSTONE">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a></div><div align="center">💡 Building, learning, and shipping — one project at a time.
+  <a href="https://kalab-tadesse.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+
+  <a href="mailto:kalupt9999@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  
+  <a href="https://github.com/kallSTONE">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+ </div>
+  
+  <div align="center">
+    💡 Building, learning, and shipping — one project at a time.
 </div>
