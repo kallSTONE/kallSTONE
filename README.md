@@ -68,7 +68,7 @@ Building practical web applications, automation tools, dashboards, and user-focu
   </tr>
   <tr>
     <td width="50%">
-      <h3><a href="https://simply-ai-orcin.vercel.app/">🤖 Simply AI ↗</a></h3>
+      <h3>🤖 <a href="https://simply-ai-orcin.vercel.app/">Simply AI ↗</a></h3>
       <strong>AI Tool Repository & Productivity Tool</strong>
       <p>A modern AI tool-sharing application with article and toolkit creation and sharing features.</p>
       <p><strong>Features:</strong> AI tool sharing, article creation, toolkit creation, and content sharing.</p>
