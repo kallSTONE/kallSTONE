@@ -59,7 +59,7 @@ A learning platform with course and lesson delivery, quizzes, progress tracking,
 - Admin dashboards and analytics
 - Authentication and role-based access
 
-🔗 [Visit Earn Neway](https://warka.site)
+🔗 [Visit Warka](https://warka.site)
 
 #### 🏢 Foreign Employment Agency Platform
 A business profile and internal productivity platform designed to support workflows and operations.
@@ -68,7 +68,7 @@ A business profile and internal productivity platform designed to support workfl
 - Internal productivity and workflow features
 - Responsive user interface
 
-🔗 [Visit the Platform](https://foreign-employment-agency.vercel.app/)
+🔗 [Visit the FEA Platform](https://foreign-employment-agency.vercel.app/)
 
 #### 🏘️ Property Rental & Sales Platform
 A multi-role property platform developed during my software development internship.
