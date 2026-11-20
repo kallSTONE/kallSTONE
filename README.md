@@ -52,7 +52,7 @@ Building practical web applications, automation tools, dashboards, and user-focu
 <table>
   <tr>
     <td width="50%">
-      <h3><a href="https://warka.site">🎓 Earn Neway ↗</a></h3>
+      <h3>🎓 <a href="https://warka.site">Earn Neway ↗</a></h3>
       <strong>Learning Management System</strong>
       <p>A learning platform with course and lesson delivery, quizzes, progress tracking, certificates, authentication, and referral features.</p>
       <p><strong>Features:</strong> Course/video/PDF delivery, quizzes, automated certificates, progress tracking, admin dashboards, analytics, and role-based access.</p>
