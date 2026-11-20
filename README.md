@@ -75,7 +75,7 @@ Building practical web applications, automation tools, dashboards, and user-focu
       <a href="https://simply-ai-orcin.vercel.app/">Read more →</a>
     </td>
     <td width="50%">
-      <h3><a href="https://property-platform-url.com">🏘️ Property Rental & Sales Platform ↗</a></h3>
+      <h3>🏘️ <a href="https://property-platform-url.com">Property Rental & Sales Platform ↗</a></h3>
       <strong>Property Management Platform</strong>
       <p>A multi-role property platform developed during my software development internship.</p>
       <p><strong>Features:</strong> Role-based access, centralized admin dashboard, user management, and production-oriented features.</p>
