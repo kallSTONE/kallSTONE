@@ -47,54 +47,52 @@ Building practical web applications, automation tools, dashboards, and user-focu
 </p>
 
 </br>
+## 🌟 Featured Projects
 
-### 🌟 Featured Projects
-
-#### 🎓 Earn Neway — Learning Management System
-A learning platform with course and lesson delivery, quizzes, progress tracking, certificates, authentication, referral features, and admin controls.
-
-- Course, video, and PDF content delivery
-- Quiz-based progression and course completion tracking
-- Automated certificate generation
-- Admin dashboards and analytics
-- Authentication and role-based access
-
-🔗 [Visit Warka](https://warka.site)
-
-#### 🏢 Foreign Employment Agency Platform
-A business profile and internal productivity platform designed to support workflows and operations.
-
-- Multilingual interface
-- Internal productivity and workflow features
-- Responsive user interface
-
-🔗 [Visit the FEA Platform](https://foreign-employment-agency.vercel.app/)
-
-### Simply AI - AI tool repository and Productivity tool
-
-Modern AI tool sharing application with article and toolkit creation and sharing features.
-
-🔗 [Visit Simply-AI](https://simply-ai-orcin.vercel.app/)
-
-
-#### 🏘️ Property Rental & Sales Platform
-A multi-role property platform developed during my software development internship.
-
-- Role-based access
-- Centralized admin dashboard
-- User management and production-oriented features
-
-🔗 [View Property Platform](https://property-platform-url.com)
-
-#### 🎵 Nisir Choir Mobile App
-A mobile app built with Adalo for song creation and editing.
-
-- Song management and audio uploads
-- Dynamic content screens
-- User-friendly interface for non-technical users
-
-🔗 [View Nisir Choir App](https://nisir-app-url.com)
-
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://warka.site">🎓 Earn Neway ↗</a></h3>
+      <strong>Learning Management System</strong>
+      <p>A learning platform with course and lesson delivery, quizzes, progress tracking, certificates, authentication, and referral features.</p>
+      <p><strong>Features:</strong> Course/video/PDF delivery, quizzes, automated certificates, progress tracking, admin dashboards, analytics, and role-based access.</p>
+      <a href="https://warka.site">Read more →</a>
+    </td>
+    <td width="50%">
+      <h3><a href="https://foreign-employment-agency.vercel.app/">🏢 Foreign Employment Agency Platform ↗</a></h3>
+      <strong>Business & Productivity Platform</strong>
+      <p>A business profile and internal productivity platform designed to support workflows and operations.</p>
+      <p><strong>Features:</strong> Multilingual interface, internal productivity tools, workflow features, and responsive UI.</p>
+      <a href="https://foreign-employment-agency.vercel.app/">Read more →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://simply-ai-orcin.vercel.app/">🤖 Simply AI ↗</a></h3>
+      <strong>AI Tool Repository & Productivity Tool</strong>
+      <p>A modern AI tool-sharing application with article and toolkit creation and sharing features.</p>
+      <p><strong>Features:</strong> AI tool sharing, article creation, toolkit creation, and content sharing.</p>
+      <a href="https://simply-ai-orcin.vercel.app/">Read more →</a>
+    </td>
+    <td width="50%">
+      <h3><a href="https://property-platform-url.com">🏘️ Property Rental & Sales Platform ↗</a></h3>
+      <strong>Property Management Platform</strong>
+      <p>A multi-role property platform developed during my software development internship.</p>
+      <p><strong>Features:</strong> Role-based access, centralized admin dashboard, user management, and production-oriented features.</p>
+      <a href="https://property-platform-url.com">Read more →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://nisir-app-url.com">🎵 Nisir Choir Mobile App ↗</a></h3>
+      <strong>Song Creation & Management</strong>
+      <p>A mobile application built with Adalo for song creation and editing.</p>
+      <p><strong>Features:</strong> Song management, audio uploads, dynamic content screens, and a user-friendly interface.</p>
+      <a href="https://nisir-app-url.com">Read more →</a>
+    </td>
+    <td width="50%"></td>
+  </tr>
+</table>
 ---
 
 🌐 **More projects and details:** [Visit My Portfolio](https://kalab-tadesse.vercel.app)
