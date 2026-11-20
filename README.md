@@ -84,7 +84,7 @@ Building practical web applications, automation tools, dashboards, and user-focu
   </tr>
   <tr>
     <td width="50%">
-      <h3><a href="https://nisir-app-url.com">🎵 Nisir Choir Mobile App ↗</a></h3>
+      <h3>🎵 <a href="https://nisir-app-url.com">Nisir Choir Mobile App ↗</a></h3>
       <strong>Song Creation & Management</strong>
       <p>A mobile application built with Adalo for song creation and editing.</p>
       <p><strong>Features:</strong> Song management, audio uploads, dynamic content screens, and a user-friendly interface.</p>
