@@ -59,7 +59,7 @@ Building practical web applications, automation tools, dashboards, and user-focu
       <a href="https://warka.site">Read more →</a>
     </td>
     <td width="50%">
-      <h3><a href="https://foreign-employment-agency.vercel.app/">🏢 Foreign Employment Agency Platform ↗</a></h3>
+      <h3>🏢 <a href="https://foreign-employment-agency.vercel.app/">Foreign Employment Agency Platform ↗</a></h3>
       <strong>Business & Productivity Platform</strong>
       <p>A business profile and internal productivity platform designed to support workflows and operations.</p>
       <p><strong>Features:</strong> Multilingual interface, internal productivity tools, workflow features, and responsive UI.</p>
