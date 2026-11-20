@@ -93,7 +93,7 @@ Building practical web applications, automation tools, dashboards, and user-focu
     <td width="50%"></td>
   </tr>
 </table>
----
+
 
 🌐 **More projects and details:** [Visit My Portfolio](https://kalab-tadesse.vercel.app)
 
