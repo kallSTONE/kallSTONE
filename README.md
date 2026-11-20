@@ -74,7 +74,7 @@ A business profile and internal productivity platform designed to support workfl
 
 Modern AI tool sharing application with article and toolkit creation and sharing features.
 
-🔗 [Visit the FEA Platform](https://simply-ai-orcin.vercel.app/)
+🔗 [Visit Simply-AI](https://simply-ai-orcin.vercel.app/)
 
 
 #### 🏘️ Property Rental & Sales Platform
