@@ -24,30 +24,8 @@ Building practical web applications, automation tools, dashboards, and user-focu
 - 🎓 Computer Science graduate/undergraduate background at Addis Ababa University. (Update this wording to reflect your current graduation status.)
 - 🌍 Based in Addis Ababa, Ethiopia.
 
-### 🛠️ Languages & Tools
 
-#### 💻 Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,php,cpp,cs,java,dart" alt="Programming Languages" />
-</p>
-
-#### 🎨 Frontend Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" alt="Frontend Technologies" />
-</p>
-
-#### ⚙️ Backend & Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,supabase" alt="Backend and Databases" />
-</p>
-
-#### 🔧 Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" alt="Developer Tools" />
-</p>
-
-</br>
-## 🌟 Featured Projects
+### 🌟 Selected Projects
 
 <table>
   <tr>
@@ -93,6 +71,31 @@ Building practical web applications, automation tools, dashboards, and user-focu
     <td width="50%"></td>
   </tr>
 </table>
+
+
+### 🛠️ Languages & Tools
+
+#### 💻 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,php,cpp,cs,java,dart" alt="Programming Languages" />
+</p>
+
+#### 🎨 Frontend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" alt="Frontend Technologies" />
+</p>
+
+#### ⚙️ Backend & Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,supabase" alt="Backend and Databases" />
+</p>
+
+#### 🔧 Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" alt="Developer Tools" />
+</p>
+
+</br>
 
 
 🌐 **More projects and details:** [Visit My Portfolio](https://kalab-tadesse.vercel.app)
